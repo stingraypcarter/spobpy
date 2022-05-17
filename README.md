@@ -1,0 +1,2 @@
+# spobpy
+SpObPy allows you to visualize your favorite music in connected graphs based genre and audio features such as tempo, key, danceability and many more. This program utilizes the Spotify API, Obsidian knowledge base app, and is written in Python. Given a text file of tracks and API credentials, the program creates markdown files for tracks, artists, albums, and audio features and with links and tags compatible with Obsidian. A user simply must open the created folder as an Obsidian vault and can explore their music in the interactive graph view.
